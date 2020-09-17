@@ -1,0 +1,13 @@
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\bin\Debug\netcoreapp3.1\nasledovanie.abstract.exe
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\bin\Debug\netcoreapp3.1\nasledovanie.abstract.deps.json
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\bin\Debug\netcoreapp3.1\nasledovanie.abstract.runtimeconfig.json
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\bin\Debug\netcoreapp3.1\nasledovanie.abstract.runtimeconfig.dev.json
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\bin\Debug\netcoreapp3.1\nasledovanie.abstract.dll
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\bin\Debug\netcoreapp3.1\nasledovanie.abstract.pdb
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\obj\Debug\netcoreapp3.1\nasledovanie.abstract.AssemblyInfoInputs.cache
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\obj\Debug\netcoreapp3.1\nasledovanie.abstract.AssemblyInfo.cs
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\obj\Debug\netcoreapp3.1\nasledovanie.abstract.csproj.CoreCompileInputs.cache
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\obj\Debug\netcoreapp3.1\nasledovanie.abstract.dll
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\obj\Debug\netcoreapp3.1\nasledovanie.abstract.pdb
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\obj\Debug\netcoreapp3.1\nasledovanie.abstract.genruntimeconfig.cache
+C:\Users\Araz\source\repos\ConsoleApp1\nasledovanie.abstract\obj\Debug\netcoreapp3.1\nasledovanie.abstract.csprojAssemblyReference.cache
