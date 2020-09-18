@@ -1,0 +1,12 @@
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\bin\Debug\netcoreapp3.1\Object.Methods.exe
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\bin\Debug\netcoreapp3.1\Object.Methods.deps.json
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\bin\Debug\netcoreapp3.1\Object.Methods.runtimeconfig.json
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\bin\Debug\netcoreapp3.1\Object.Methods.runtimeconfig.dev.json
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\bin\Debug\netcoreapp3.1\Object.Methods.dll
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\bin\Debug\netcoreapp3.1\Object.Methods.pdb
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\obj\Debug\netcoreapp3.1\Object.Methods.AssemblyInfoInputs.cache
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\obj\Debug\netcoreapp3.1\Object.Methods.AssemblyInfo.cs
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\obj\Debug\netcoreapp3.1\Object.Methods.csproj.CoreCompileInputs.cache
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\obj\Debug\netcoreapp3.1\Object.Methods.dll
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\obj\Debug\netcoreapp3.1\Object.Methods.pdb
+C:\Users\Araz\source\repos\ConsoleApp1\Object.Methods\obj\Debug\netcoreapp3.1\Object.Methods.genruntimeconfig.cache
